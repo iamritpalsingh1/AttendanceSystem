@@ -8,7 +8,7 @@ Facial recognition is becoming more prominent in our society. It has made major 
 
 The system mainly works around 2 types of users
 
-Employee
+Employee &
 Admin
 # Following functionalities can be performed by the admin:
 • Login
