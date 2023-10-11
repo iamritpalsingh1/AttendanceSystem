@@ -10,14 +10,14 @@ The system mainly works around 2 types of users
 
 Employee
 Admin
-*Following functionalities can be performed by the admin:*
+# Following functionalities can be performed by the admin:
 • Login
 • Register new employees to the system
 • Add employee photos to the training data set
 • Train the model
 • View attendance report of all employees. Attendance can be filtered by date or employee.
 
-Following functionalities can be performed by the employee:
+# Following functionalities can be performed by the employee:
 • Login
 • Mark his/her time-in and time-out by scanning their face
 • View attendance report of self
